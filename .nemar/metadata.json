@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Ear-EEG Sleep Monitoring 2019 (EESM19)",
-  "description": "This dataset comprises multi-night ear-EEG and polysomnography (PSG) recordings collected between 2018 and 2020 to develop and validate ear-EEG as a home-based sleep monitoring platform. Twenty subjects were recorded across four nights with partial PSG, ear-EEG, and actigraphy, while ten of these subjects continued for an additional twelve nights using only ear-EEG, actigraphy, and a single EOG electrode. Supplementary behavioral data include nightly comfort questionnaires, sleep diaries, and actigraphy recordings, providing a rich resource for studying sleep physiology and wearable EEG signal quality.",
-  "methods_description": "Subjects slept at home wearing ear-EEG electrodes alongside partial PSG (EEG, EOG, chin EMG) for the first four nights, and a subset continued for twelve additional nights with ear-EEG, actigraphy, and a single EOG electrode. Actigraphy was recorded with wrist-worn GENEactiv devices measuring 3-axis acceleration, temperature, light, and button presses. Each night, participants completed a comfort questionnaire and a sleep diary, and performed an electrode quality test involving jaw clenching, eye movements, and open/closed eyes. Data were minimally preprocessed; faulty electrodes with signal leakage were identified and set to NaN in the .set files.",
+  "description": "The Ear-EEG Sleep Monitoring 2019 (EESM19) dataset contains overnight home recordings from 20 subjects who each slept four nights with partial polysomnography (EEG, EOG, chin EMG), dry-contact ear-EEG, and a wrist-worn actigraph. Ten of these subjects also completed 12 further nights with only ear-EEG, actigraphy, and a single EOG electrode. The dataset also includes sleep scoring, post-night comfort questionnaires, sleep diaries, and electrode quality-check markers. It was collected to develop and assess ear-EEG as a sleep monitoring platform.",
+  "methods_description": "Recordings were made in the subjects' own homes between 2018 and 2020 using a TMSI Mobita EEG recorder with dry-contact ear-EEG electrodes, along with GENEactiv actigraphs. Subjects filled in a questionnaire and a diary after each night. Each recording began with a shared shaking of the recorder and actigraph to allow alignment, followed by an electrode test video (jaw clenching, eye opening and closing, horizontal eye movements). The only EEG preprocessing was setting electrodes with faulty shielding to NaN in the .set files.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -20,9 +20,10 @@
       "term": "EEG"
     },
     {
-      "term": "Sleep",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D012890"
+      "term": "ear-EEG"
+    },
+    {
+      "term": "sleep monitoring"
     },
     {
       "term": "Polysomnography",
@@ -35,10 +36,12 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D056044"
     },
     {
-      "term": "ear-EEG"
+      "term": "Sleep",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D012890"
     },
     {
-      "term": "wearable sensors"
+      "term": "home recording"
     }
   ],
   "related_identifiers": [
@@ -75,7 +78,7 @@
     "eeg"
   ],
   "sizes": [
-    "832.4 GB (2333 files)"
+    "775 GB (2333 files)"
   ],
   "formats": [
     ".Poly5",
