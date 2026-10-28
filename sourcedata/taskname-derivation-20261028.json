@@ -1,0 +1,2006 @@
+{
+  "SourceGitCommit": "ffee9a66546d037396c69686f653da3dfeb7c645",
+  "Derivation": "TaskName is the literal existing BIDS filename task identifier, not an inferred experiment description. All original tracked entries remain unchanged.",
+  "AddedSidecars": [
+    {
+      "path": "sub-001/ses-001/eeg/sub-001_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-001/eeg/sub-001_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-001/ses-001/eeg/sub-001_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-001/ses-002/eeg/sub-001_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-002/eeg/sub-001_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-001/ses-002/eeg/sub-001_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-001/ses-003/eeg/sub-001_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-003/eeg/sub-001_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-001/ses-003/eeg/sub-001_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-001/ses-004/eeg/sub-001_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-004/eeg/sub-001_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-001/ses-004/eeg/sub-001_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-001/ses-005/eeg/sub-001_ses-005_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-005/eeg/sub-001_ses-005_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-001/ses-005/eeg/sub-001_ses-005_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-001/ses-006/eeg/sub-001_ses-006_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-006/eeg/sub-001_ses-006_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-001/ses-006/eeg/sub-001_ses-006_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-001/ses-007/eeg/sub-001_ses-007_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-007/eeg/sub-001_ses-007_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-001/ses-007/eeg/sub-001_ses-007_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-001/ses-008/eeg/sub-001_ses-008_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-008/eeg/sub-001_ses-008_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-001/ses-008/eeg/sub-001_ses-008_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-001/ses-009/eeg/sub-001_ses-009_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-009/eeg/sub-001_ses-009_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-001/ses-009/eeg/sub-001_ses-009_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-001/ses-010/eeg/sub-001_ses-010_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-010/eeg/sub-001_ses-010_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-001/ses-010/eeg/sub-001_ses-010_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-001/ses-011/eeg/sub-001_ses-011_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-011/eeg/sub-001_ses-011_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-001/ses-011/eeg/sub-001_ses-011_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-001/ses-012/eeg/sub-001_ses-012_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-012/eeg/sub-001_ses-012_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-001/ses-012/eeg/sub-001_ses-012_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-001/ses-013/eeg/sub-001_ses-013_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-013/eeg/sub-001_ses-013_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-001/ses-013/eeg/sub-001_ses-013_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-001/ses-014/eeg/sub-001_ses-014_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-014/eeg/sub-001_ses-014_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-001/ses-014/eeg/sub-001_ses-014_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-001/ses-015/eeg/sub-001_ses-015_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-015/eeg/sub-001_ses-015_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-001/ses-015/eeg/sub-001_ses-015_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-001/ses-016/eeg/sub-001_ses-016_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-001/ses-016/eeg/sub-001_ses-016_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-001/ses-016/eeg/sub-001_ses-016_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-002/ses-001/eeg/sub-002_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-002/ses-001/eeg/sub-002_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-002/ses-001/eeg/sub-002_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-002/ses-002/eeg/sub-002_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-002/ses-002/eeg/sub-002_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-002/ses-002/eeg/sub-002_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-002/ses-003/eeg/sub-002_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-002/ses-003/eeg/sub-002_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-002/ses-003/eeg/sub-002_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-002/ses-004/eeg/sub-002_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-002/ses-004/eeg/sub-002_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-002/ses-004/eeg/sub-002_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-001/eeg/sub-003_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-001/eeg/sub-003_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-003/ses-001/eeg/sub-003_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-002/eeg/sub-003_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-002/eeg/sub-003_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-003/ses-002/eeg/sub-003_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-003/eeg/sub-003_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-003/eeg/sub-003_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-003/ses-003/eeg/sub-003_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-004/eeg/sub-003_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-004/eeg/sub-003_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-003/ses-004/eeg/sub-003_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-005/eeg/sub-003_ses-005_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-005/eeg/sub-003_ses-005_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-003/ses-005/eeg/sub-003_ses-005_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-006/eeg/sub-003_ses-006_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-006/eeg/sub-003_ses-006_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-003/ses-006/eeg/sub-003_ses-006_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-007/eeg/sub-003_ses-007_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-007/eeg/sub-003_ses-007_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-003/ses-007/eeg/sub-003_ses-007_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-008/eeg/sub-003_ses-008_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-008/eeg/sub-003_ses-008_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-003/ses-008/eeg/sub-003_ses-008_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-009/eeg/sub-003_ses-009_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-009/eeg/sub-003_ses-009_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-003/ses-009/eeg/sub-003_ses-009_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-010/eeg/sub-003_ses-010_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-010/eeg/sub-003_ses-010_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-003/ses-010/eeg/sub-003_ses-010_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-011/eeg/sub-003_ses-011_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-011/eeg/sub-003_ses-011_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-003/ses-011/eeg/sub-003_ses-011_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-012/eeg/sub-003_ses-012_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-012/eeg/sub-003_ses-012_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-003/ses-012/eeg/sub-003_ses-012_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-013/eeg/sub-003_ses-013_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-013/eeg/sub-003_ses-013_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-003/ses-013/eeg/sub-003_ses-013_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-014/eeg/sub-003_ses-014_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-014/eeg/sub-003_ses-014_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-003/ses-014/eeg/sub-003_ses-014_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-015/eeg/sub-003_ses-015_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-015/eeg/sub-003_ses-015_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-003/ses-015/eeg/sub-003_ses-015_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-003/ses-016/eeg/sub-003_ses-016_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-003/ses-016/eeg/sub-003_ses-016_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-003/ses-016/eeg/sub-003_ses-016_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-001/eeg/sub-004_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-001/eeg/sub-004_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-004/ses-001/eeg/sub-004_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-002/eeg/sub-004_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-002/eeg/sub-004_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-004/ses-002/eeg/sub-004_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-003/eeg/sub-004_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-003/eeg/sub-004_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-004/ses-003/eeg/sub-004_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-004/eeg/sub-004_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-004/eeg/sub-004_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-004/ses-004/eeg/sub-004_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-005/eeg/sub-004_ses-005_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-005/eeg/sub-004_ses-005_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-004/ses-005/eeg/sub-004_ses-005_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-006/eeg/sub-004_ses-006_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-006/eeg/sub-004_ses-006_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-004/ses-006/eeg/sub-004_ses-006_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-007/eeg/sub-004_ses-007_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-007/eeg/sub-004_ses-007_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-004/ses-007/eeg/sub-004_ses-007_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-008/eeg/sub-004_ses-008_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-008/eeg/sub-004_ses-008_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-004/ses-008/eeg/sub-004_ses-008_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-009/eeg/sub-004_ses-009_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-009/eeg/sub-004_ses-009_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-004/ses-009/eeg/sub-004_ses-009_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-010/eeg/sub-004_ses-010_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-010/eeg/sub-004_ses-010_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-004/ses-010/eeg/sub-004_ses-010_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-011/eeg/sub-004_ses-011_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-011/eeg/sub-004_ses-011_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-004/ses-011/eeg/sub-004_ses-011_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-012/eeg/sub-004_ses-012_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-012/eeg/sub-004_ses-012_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-004/ses-012/eeg/sub-004_ses-012_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-013/eeg/sub-004_ses-013_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-013/eeg/sub-004_ses-013_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-004/ses-013/eeg/sub-004_ses-013_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-014/eeg/sub-004_ses-014_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-014/eeg/sub-004_ses-014_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-004/ses-014/eeg/sub-004_ses-014_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-015/eeg/sub-004_ses-015_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-015/eeg/sub-004_ses-015_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-004/ses-015/eeg/sub-004_ses-015_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-004/ses-016/eeg/sub-004_ses-016_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-004/ses-016/eeg/sub-004_ses-016_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-004/ses-016/eeg/sub-004_ses-016_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-005/ses-001/eeg/sub-005_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-005/ses-001/eeg/sub-005_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-005/ses-001/eeg/sub-005_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-005/ses-002/eeg/sub-005_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-005/ses-002/eeg/sub-005_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-005/ses-002/eeg/sub-005_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-005/ses-003/eeg/sub-005_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-005/ses-003/eeg/sub-005_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-005/ses-003/eeg/sub-005_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-005/ses-004/eeg/sub-005_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-005/ses-004/eeg/sub-005_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-005/ses-004/eeg/sub-005_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-006/ses-001/eeg/sub-006_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-006/ses-001/eeg/sub-006_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-006/ses-001/eeg/sub-006_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-006/ses-002/eeg/sub-006_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-006/ses-002/eeg/sub-006_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-006/ses-002/eeg/sub-006_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-006/ses-003/eeg/sub-006_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-006/ses-003/eeg/sub-006_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-006/ses-003/eeg/sub-006_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-006/ses-004/eeg/sub-006_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-006/ses-004/eeg/sub-006_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-006/ses-004/eeg/sub-006_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-007/ses-001/eeg/sub-007_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-007/ses-001/eeg/sub-007_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-007/ses-001/eeg/sub-007_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-007/ses-002/eeg/sub-007_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-007/ses-002/eeg/sub-007_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-007/ses-002/eeg/sub-007_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-007/ses-003/eeg/sub-007_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-007/ses-003/eeg/sub-007_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-007/ses-003/eeg/sub-007_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-007/ses-004/eeg/sub-007_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-007/ses-004/eeg/sub-007_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-007/ses-004/eeg/sub-007_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-008/ses-001/eeg/sub-008_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-008/ses-001/eeg/sub-008_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-008/ses-001/eeg/sub-008_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-008/ses-002/eeg/sub-008_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-008/ses-002/eeg/sub-008_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-008/ses-002/eeg/sub-008_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-008/ses-003/eeg/sub-008_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-008/ses-003/eeg/sub-008_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-008/ses-003/eeg/sub-008_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-008/ses-004/eeg/sub-008_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-008/ses-004/eeg/sub-008_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-008/ses-004/eeg/sub-008_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-009/ses-001/eeg/sub-009_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-009/ses-001/eeg/sub-009_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-009/ses-001/eeg/sub-009_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-009/ses-002/eeg/sub-009_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-009/ses-002/eeg/sub-009_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-009/ses-002/eeg/sub-009_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-009/ses-003/eeg/sub-009_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-009/ses-003/eeg/sub-009_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-009/ses-003/eeg/sub-009_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-009/ses-004/eeg/sub-009_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-009/ses-004/eeg/sub-009_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-009/ses-004/eeg/sub-009_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-001/eeg/sub-010_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-001/eeg/sub-010_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-010/ses-001/eeg/sub-010_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-002/eeg/sub-010_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-002/eeg/sub-010_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-010/ses-002/eeg/sub-010_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-003/eeg/sub-010_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-003/eeg/sub-010_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-010/ses-003/eeg/sub-010_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-004/eeg/sub-010_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-004/eeg/sub-010_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-010/ses-004/eeg/sub-010_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-005/eeg/sub-010_ses-005_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-005/eeg/sub-010_ses-005_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-010/ses-005/eeg/sub-010_ses-005_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-006/eeg/sub-010_ses-006_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-006/eeg/sub-010_ses-006_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-010/ses-006/eeg/sub-010_ses-006_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-007/eeg/sub-010_ses-007_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-007/eeg/sub-010_ses-007_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-010/ses-007/eeg/sub-010_ses-007_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-008/eeg/sub-010_ses-008_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-008/eeg/sub-010_ses-008_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-010/ses-008/eeg/sub-010_ses-008_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-009/eeg/sub-010_ses-009_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-009/eeg/sub-010_ses-009_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-010/ses-009/eeg/sub-010_ses-009_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-010/eeg/sub-010_ses-010_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-010/eeg/sub-010_ses-010_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-010/ses-010/eeg/sub-010_ses-010_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-011/eeg/sub-010_ses-011_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-011/eeg/sub-010_ses-011_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-010/ses-011/eeg/sub-010_ses-011_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-012/eeg/sub-010_ses-012_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-012/eeg/sub-010_ses-012_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-010/ses-012/eeg/sub-010_ses-012_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-013/eeg/sub-010_ses-013_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-013/eeg/sub-010_ses-013_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-010/ses-013/eeg/sub-010_ses-013_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-014/eeg/sub-010_ses-014_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-014/eeg/sub-010_ses-014_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-010/ses-014/eeg/sub-010_ses-014_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-015/eeg/sub-010_ses-015_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-015/eeg/sub-010_ses-015_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-010/ses-015/eeg/sub-010_ses-015_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-010/ses-016/eeg/sub-010_ses-016_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-010/ses-016/eeg/sub-010_ses-016_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-010/ses-016/eeg/sub-010_ses-016_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-011/ses-001/eeg/sub-011_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-011/ses-001/eeg/sub-011_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-011/ses-001/eeg/sub-011_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-011/ses-002/eeg/sub-011_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-011/ses-002/eeg/sub-011_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-011/ses-002/eeg/sub-011_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-011/ses-003/eeg/sub-011_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-011/ses-003/eeg/sub-011_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-011/ses-003/eeg/sub-011_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-011/ses-004/eeg/sub-011_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-011/ses-004/eeg/sub-011_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-011/ses-004/eeg/sub-011_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-012/ses-001/eeg/sub-012_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-012/ses-001/eeg/sub-012_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-012/ses-001/eeg/sub-012_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-012/ses-002/eeg/sub-012_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-012/ses-002/eeg/sub-012_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-012/ses-002/eeg/sub-012_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-012/ses-003/eeg/sub-012_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-012/ses-003/eeg/sub-012_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-012/ses-003/eeg/sub-012_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-012/ses-004/eeg/sub-012_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-012/ses-004/eeg/sub-012_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-012/ses-004/eeg/sub-012_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-001/eeg/sub-013_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-001/eeg/sub-013_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-013/ses-001/eeg/sub-013_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-002/eeg/sub-013_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-002/eeg/sub-013_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-013/ses-002/eeg/sub-013_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-003/eeg/sub-013_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-003/eeg/sub-013_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-013/ses-003/eeg/sub-013_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-004/eeg/sub-013_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-004/eeg/sub-013_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-013/ses-004/eeg/sub-013_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-005/eeg/sub-013_ses-005_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-005/eeg/sub-013_ses-005_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-013/ses-005/eeg/sub-013_ses-005_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-006/eeg/sub-013_ses-006_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-006/eeg/sub-013_ses-006_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-013/ses-006/eeg/sub-013_ses-006_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-007/eeg/sub-013_ses-007_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-007/eeg/sub-013_ses-007_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-013/ses-007/eeg/sub-013_ses-007_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-008/eeg/sub-013_ses-008_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-008/eeg/sub-013_ses-008_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-013/ses-008/eeg/sub-013_ses-008_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-009/eeg/sub-013_ses-009_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-009/eeg/sub-013_ses-009_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-013/ses-009/eeg/sub-013_ses-009_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-010/eeg/sub-013_ses-010_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-010/eeg/sub-013_ses-010_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-013/ses-010/eeg/sub-013_ses-010_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-011/eeg/sub-013_ses-011_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-011/eeg/sub-013_ses-011_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-013/ses-011/eeg/sub-013_ses-011_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-012/eeg/sub-013_ses-012_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-012/eeg/sub-013_ses-012_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-013/ses-012/eeg/sub-013_ses-012_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-013/eeg/sub-013_ses-013_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-013/eeg/sub-013_ses-013_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-013/ses-013/eeg/sub-013_ses-013_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-014/eeg/sub-013_ses-014_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-014/eeg/sub-013_ses-014_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-013/ses-014/eeg/sub-013_ses-014_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-015/eeg/sub-013_ses-015_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-015/eeg/sub-013_ses-015_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-013/ses-015/eeg/sub-013_ses-015_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-013/ses-016/eeg/sub-013_ses-016_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-013/ses-016/eeg/sub-013_ses-016_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-013/ses-016/eeg/sub-013_ses-016_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-001/eeg/sub-014_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-001/eeg/sub-014_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-014/ses-001/eeg/sub-014_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-002/eeg/sub-014_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-002/eeg/sub-014_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-014/ses-002/eeg/sub-014_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-003/eeg/sub-014_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-003/eeg/sub-014_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-014/ses-003/eeg/sub-014_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-004/eeg/sub-014_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-004/eeg/sub-014_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-014/ses-004/eeg/sub-014_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-005/eeg/sub-014_ses-005_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-005/eeg/sub-014_ses-005_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-014/ses-005/eeg/sub-014_ses-005_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-006/eeg/sub-014_ses-006_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-006/eeg/sub-014_ses-006_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-014/ses-006/eeg/sub-014_ses-006_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-007/eeg/sub-014_ses-007_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-007/eeg/sub-014_ses-007_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-014/ses-007/eeg/sub-014_ses-007_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-008/eeg/sub-014_ses-008_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-008/eeg/sub-014_ses-008_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-014/ses-008/eeg/sub-014_ses-008_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-009/eeg/sub-014_ses-009_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-009/eeg/sub-014_ses-009_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-014/ses-009/eeg/sub-014_ses-009_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-010/eeg/sub-014_ses-010_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-010/eeg/sub-014_ses-010_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-014/ses-010/eeg/sub-014_ses-010_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-011/eeg/sub-014_ses-011_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-011/eeg/sub-014_ses-011_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-014/ses-011/eeg/sub-014_ses-011_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-012/eeg/sub-014_ses-012_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-012/eeg/sub-014_ses-012_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-014/ses-012/eeg/sub-014_ses-012_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-013/eeg/sub-014_ses-013_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-013/eeg/sub-014_ses-013_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-014/ses-013/eeg/sub-014_ses-013_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-014/eeg/sub-014_ses-014_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-014/eeg/sub-014_ses-014_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-014/ses-014/eeg/sub-014_ses-014_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-015/eeg/sub-014_ses-015_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-015/eeg/sub-014_ses-015_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-014/ses-015/eeg/sub-014_ses-015_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-014/ses-016/eeg/sub-014_ses-016_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-014/ses-016/eeg/sub-014_ses-016_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-014/ses-016/eeg/sub-014_ses-016_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-015/ses-001/eeg/sub-015_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-015/ses-001/eeg/sub-015_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-015/ses-001/eeg/sub-015_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-015/ses-002/eeg/sub-015_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-015/ses-002/eeg/sub-015_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-015/ses-002/eeg/sub-015_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-015/ses-003/eeg/sub-015_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-015/ses-003/eeg/sub-015_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-015/ses-003/eeg/sub-015_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-015/ses-004/eeg/sub-015_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-015/ses-004/eeg/sub-015_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-015/ses-004/eeg/sub-015_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-016/ses-001/eeg/sub-016_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-016/ses-001/eeg/sub-016_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-016/ses-001/eeg/sub-016_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-016/ses-002/eeg/sub-016_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-016/ses-002/eeg/sub-016_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-016/ses-002/eeg/sub-016_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-016/ses-003/eeg/sub-016_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-016/ses-003/eeg/sub-016_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-016/ses-003/eeg/sub-016_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-016/ses-004/eeg/sub-016_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-016/ses-004/eeg/sub-016_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-016/ses-004/eeg/sub-016_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-001/eeg/sub-017_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-001/eeg/sub-017_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-017/ses-001/eeg/sub-017_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-002/eeg/sub-017_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-002/eeg/sub-017_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-017/ses-002/eeg/sub-017_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-003/eeg/sub-017_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-003/eeg/sub-017_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-017/ses-003/eeg/sub-017_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-004/eeg/sub-017_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-004/eeg/sub-017_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-017/ses-004/eeg/sub-017_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-005/eeg/sub-017_ses-005_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-005/eeg/sub-017_ses-005_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-017/ses-005/eeg/sub-017_ses-005_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-006/eeg/sub-017_ses-006_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-006/eeg/sub-017_ses-006_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-017/ses-006/eeg/sub-017_ses-006_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-007/eeg/sub-017_ses-007_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-007/eeg/sub-017_ses-007_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-017/ses-007/eeg/sub-017_ses-007_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-008/eeg/sub-017_ses-008_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-008/eeg/sub-017_ses-008_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-017/ses-008/eeg/sub-017_ses-008_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-009/eeg/sub-017_ses-009_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-009/eeg/sub-017_ses-009_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-017/ses-009/eeg/sub-017_ses-009_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-010/eeg/sub-017_ses-010_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-010/eeg/sub-017_ses-010_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-017/ses-010/eeg/sub-017_ses-010_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-011/eeg/sub-017_ses-011_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-011/eeg/sub-017_ses-011_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-017/ses-011/eeg/sub-017_ses-011_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-012/eeg/sub-017_ses-012_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-012/eeg/sub-017_ses-012_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-017/ses-012/eeg/sub-017_ses-012_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-013/eeg/sub-017_ses-013_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-013/eeg/sub-017_ses-013_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-017/ses-013/eeg/sub-017_ses-013_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-014/eeg/sub-017_ses-014_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-014/eeg/sub-017_ses-014_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-017/ses-014/eeg/sub-017_ses-014_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-015/eeg/sub-017_ses-015_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-015/eeg/sub-017_ses-015_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-017/ses-015/eeg/sub-017_ses-015_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-017/ses-016/eeg/sub-017_ses-016_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-017/ses-016/eeg/sub-017_ses-016_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-017/ses-016/eeg/sub-017_ses-016_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-001/eeg/sub-018_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-001/eeg/sub-018_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-018/ses-001/eeg/sub-018_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-002/eeg/sub-018_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-002/eeg/sub-018_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-018/ses-002/eeg/sub-018_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-003/eeg/sub-018_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-003/eeg/sub-018_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-018/ses-003/eeg/sub-018_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-004/eeg/sub-018_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-004/eeg/sub-018_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-018/ses-004/eeg/sub-018_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-005/eeg/sub-018_ses-005_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-005/eeg/sub-018_ses-005_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-018/ses-005/eeg/sub-018_ses-005_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-006/eeg/sub-018_ses-006_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-006/eeg/sub-018_ses-006_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-018/ses-006/eeg/sub-018_ses-006_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-007/eeg/sub-018_ses-007_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-007/eeg/sub-018_ses-007_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-018/ses-007/eeg/sub-018_ses-007_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-008/eeg/sub-018_ses-008_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-008/eeg/sub-018_ses-008_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-018/ses-008/eeg/sub-018_ses-008_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-009/eeg/sub-018_ses-009_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-009/eeg/sub-018_ses-009_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-018/ses-009/eeg/sub-018_ses-009_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-010/eeg/sub-018_ses-010_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-010/eeg/sub-018_ses-010_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-018/ses-010/eeg/sub-018_ses-010_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-011/eeg/sub-018_ses-011_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-011/eeg/sub-018_ses-011_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-018/ses-011/eeg/sub-018_ses-011_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-012/eeg/sub-018_ses-012_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-012/eeg/sub-018_ses-012_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-018/ses-012/eeg/sub-018_ses-012_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-013/eeg/sub-018_ses-013_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-013/eeg/sub-018_ses-013_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-018/ses-013/eeg/sub-018_ses-013_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-014/eeg/sub-018_ses-014_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-014/eeg/sub-018_ses-014_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-018/ses-014/eeg/sub-018_ses-014_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-015/eeg/sub-018_ses-015_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-015/eeg/sub-018_ses-015_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-018/ses-015/eeg/sub-018_ses-015_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-018/ses-016/eeg/sub-018_ses-016_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-018/ses-016/eeg/sub-018_ses-016_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-018/ses-016/eeg/sub-018_ses-016_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-001/eeg/sub-019_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-001/eeg/sub-019_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-019/ses-001/eeg/sub-019_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-002/eeg/sub-019_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-002/eeg/sub-019_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-019/ses-002/eeg/sub-019_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-003/eeg/sub-019_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-003/eeg/sub-019_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-019/ses-003/eeg/sub-019_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-004/eeg/sub-019_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-004/eeg/sub-019_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-019/ses-004/eeg/sub-019_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-005/eeg/sub-019_ses-005_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-005/eeg/sub-019_ses-005_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-019/ses-005/eeg/sub-019_ses-005_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-006/eeg/sub-019_ses-006_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-006/eeg/sub-019_ses-006_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-019/ses-006/eeg/sub-019_ses-006_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-007/eeg/sub-019_ses-007_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-007/eeg/sub-019_ses-007_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-019/ses-007/eeg/sub-019_ses-007_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-008/eeg/sub-019_ses-008_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-008/eeg/sub-019_ses-008_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-019/ses-008/eeg/sub-019_ses-008_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-009/eeg/sub-019_ses-009_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-009/eeg/sub-019_ses-009_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-019/ses-009/eeg/sub-019_ses-009_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-010/eeg/sub-019_ses-010_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-010/eeg/sub-019_ses-010_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-019/ses-010/eeg/sub-019_ses-010_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-011/eeg/sub-019_ses-011_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-011/eeg/sub-019_ses-011_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-019/ses-011/eeg/sub-019_ses-011_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-012/eeg/sub-019_ses-012_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-012/eeg/sub-019_ses-012_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-019/ses-012/eeg/sub-019_ses-012_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-013/eeg/sub-019_ses-013_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-013/eeg/sub-019_ses-013_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-019/ses-013/eeg/sub-019_ses-013_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-014/eeg/sub-019_ses-014_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-014/eeg/sub-019_ses-014_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-019/ses-014/eeg/sub-019_ses-014_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-015/eeg/sub-019_ses-015_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-015/eeg/sub-019_ses-015_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-019/ses-015/eeg/sub-019_ses-015_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-019/ses-016/eeg/sub-019_ses-016_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-019/ses-016/eeg/sub-019_ses-016_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-019/ses-016/eeg/sub-019_ses-016_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-001/eeg/sub-020_ses-001_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-001/eeg/sub-020_ses-001_task-sleep_acq-PSG_eeg.fdt",
+        "sub-020/ses-001/eeg/sub-020_ses-001_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-002/eeg/sub-020_ses-002_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-002/eeg/sub-020_ses-002_task-sleep_acq-PSG_eeg.fdt",
+        "sub-020/ses-002/eeg/sub-020_ses-002_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-003/eeg/sub-020_ses-003_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-003/eeg/sub-020_ses-003_task-sleep_acq-PSG_eeg.fdt",
+        "sub-020/ses-003/eeg/sub-020_ses-003_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-004/eeg/sub-020_ses-004_task-sleep_acq-PSG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-004/eeg/sub-020_ses-004_task-sleep_acq-PSG_eeg.fdt",
+        "sub-020/ses-004/eeg/sub-020_ses-004_task-sleep_acq-PSG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-005/eeg/sub-020_ses-005_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-005/eeg/sub-020_ses-005_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-020/ses-005/eeg/sub-020_ses-005_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-006/eeg/sub-020_ses-006_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-006/eeg/sub-020_ses-006_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-020/ses-006/eeg/sub-020_ses-006_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-007/eeg/sub-020_ses-007_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-007/eeg/sub-020_ses-007_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-020/ses-007/eeg/sub-020_ses-007_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-008/eeg/sub-020_ses-008_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-008/eeg/sub-020_ses-008_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-020/ses-008/eeg/sub-020_ses-008_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-009/eeg/sub-020_ses-009_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-009/eeg/sub-020_ses-009_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-020/ses-009/eeg/sub-020_ses-009_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-010/eeg/sub-020_ses-010_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-010/eeg/sub-020_ses-010_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-020/ses-010/eeg/sub-020_ses-010_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-011/eeg/sub-020_ses-011_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-011/eeg/sub-020_ses-011_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-020/ses-011/eeg/sub-020_ses-011_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-012/eeg/sub-020_ses-012_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-012/eeg/sub-020_ses-012_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-020/ses-012/eeg/sub-020_ses-012_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-013/eeg/sub-020_ses-013_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-013/eeg/sub-020_ses-013_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-020/ses-013/eeg/sub-020_ses-013_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-014/eeg/sub-020_ses-014_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-014/eeg/sub-020_ses-014_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-020/ses-014/eeg/sub-020_ses-014_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-015/eeg/sub-020_ses-015_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-015/eeg/sub-020_ses-015_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-020/ses-015/eeg/sub-020_ses-015_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    },
+    {
+      "path": "sub-020/ses-016/eeg/sub-020_ses-016_task-sleep_acq-earEEG_eeg.json",
+      "task_token": "sleep",
+      "source_files": [
+        "sub-020/ses-016/eeg/sub-020_ses-016_task-sleep_acq-earEEG_eeg.fdt",
+        "sub-020/ses-016/eeg/sub-020_ses-016_task-sleep_acq-earEEG_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "95ccd65c50de0f8328bec0a65a1f4eda7eddc9908b8aff63580be3fef66824e0"
+    }
+  ]
+}
